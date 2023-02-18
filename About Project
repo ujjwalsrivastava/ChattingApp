@@ -1,0 +1,26 @@
+- Developed using java swing & Socket programming.
+- Java Swing  is a part of Java Foundation Classes (JFC) that is 
+used to create window-based applications.
+- Java Swing is a lightweight Java graphical user interface (GUI) widget 
+toolkit that includes a rich set of widgets.
+-Socket programming is a way of connecting two nodes on a network to communicate 
+with each other.
+-A socket connection means the two machines have information about each other's 
+network location (IP Address) and TCP port.
+-Transmission Control Protocol is a unique identifier used with an IP address.
+- Using awt package for color in frame.
+-JPanel is a frame , on the top.
+-ActionListener comes from awt package in java.
+-We are using Mouse Listener for implementing back click feature, when 
+user will click on back image sign , then app will end.
+- using JLabel , you can write on the frame.
+- setBounds function we are using to resizing.(from left,from above,khud ki length, aur breadth)
+- We can use JTextField to create a textfield.
+- We can use JButton to create a button.
+- For using socket we generally use net package.
+- DataInputStream comes under IO Package , used to read the input message
+- DataOutputStream used to send the message.
+- With the socket we connect to server url.
+- readutf & writeutf function of socket programming we have used.
+- message read- with the help of datainputstream , we call readutf & read the msg.
+- message send - with the help of dataoutputstream , we call writeutf & send the msg.
